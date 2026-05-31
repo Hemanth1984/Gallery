@@ -72,7 +72,7 @@ HTML CODE
     </div>
     <div class="allign">
         <div class="image">
-            <img id="img" src="dhoni (2).png" alt="Gallery Image">
+            <img id="img" src="dhoni (1).png" alt="Gallery Image">
             <h2 id="text">MAHENDRA SINGH DHONI</h2>
             <div class="button1">
                 <button onclick="previous()">Previous</button>
